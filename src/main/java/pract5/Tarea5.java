@@ -14,7 +14,7 @@ public class Tarea5 extends JFrame {
 	private JButton limpiarBoton;
 	
 	public Tarea5() {
-        setTitle("Ventana con Eventos de Ratón");
+        setTitle("Tarea5");
         setBounds(400,300,500,800);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
