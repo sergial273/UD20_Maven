@@ -29,7 +29,7 @@ public class Tarea4 extends JFrame {
 
 			@Override
 			public void windowClosing(WindowEvent e) {
-				logEvento(areaTexto, "Ventana cerrándose");
+				logEvento(areaTexto, "Ventana cerrandose");
 			}
 
 			@Override
